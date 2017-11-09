@@ -12,7 +12,7 @@ namespace NationsoftheWorld
         {
             InitializeComponent();
             textBox1.Select();
-            String FileLocation = @"C:\Users\Giftedbryan\Downloads\loads\" + Counters.Nation.ToLower() + ".png";
+            String FileLocation = "resources/" + Counters.Nation.ToLower() + ".png";
             pictureBox1.Image = Image.FromFile(FileLocation);
         }
 
@@ -39,7 +39,7 @@ namespace NationsoftheWorld
 
                 else if (Program.CheckLastNation())
                 {
-                    String FileLocation = @"C:\Users\Giftedbryan\Downloads\loads\gj.png";
+                    String FileLocation = "resources/gj.png";
                     pictureBox1.Image = Image.FromFile(FileLocation);
                     textBox1.Text = "How did you do?";
                     Finished = true;
@@ -50,7 +50,7 @@ namespace NationsoftheWorld
                 if (!Program.CheckLastNation())
                 {
                     Program.UpdateNation();
-                    String FileLocation = @"C:\Users\Giftedbryan\Downloads\loads\" + Counters.Nation.ToLower() + ".png";
+                    String FileLocation = "resources/" + Counters.Nation.ToLower() + ".png";
                     pictureBox1.Image = Image.FromFile(FileLocation);
                     textBox1.Text = "";
                 }

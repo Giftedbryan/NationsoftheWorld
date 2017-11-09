@@ -23,6 +23,7 @@ namespace NationsoftheWorld
             Countryflag.Add("GB");
             Countryflag.Add("PL");
             Countryflag.Add("NP");
+            Countryflag.Add("IS");
 
             Shuffle(Countryflag);
 
