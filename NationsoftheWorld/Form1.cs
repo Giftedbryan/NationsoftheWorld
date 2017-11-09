@@ -26,58 +26,6 @@ namespace NationsoftheWorld
         private void button1_Click(object sender, EventArgs e)
         {
             Check();
-            #region
-            /*
-            if (textBox1.Text == "The Netherlands")
-            {
-                Counters.Score++;
-                pictureBox1.Image = Image.FromFile(@"C:\Users\Giftedbryan\Downloads\loads\pt.png");
-                //Counters.Nation = "";
-            }
-
-            if (textBox1.Text == "Portugal")
-            {
-                Counters.Score++;
-                pictureBox1.Image = Image.FromFile(@"C:\Users\Giftedbryan\Downloads\loads\be.png");
-                //Counters.Nation = "";
-            }
-
-            if (textBox1.Text == "Belgium")
-            {
-                Counters.Score++;
-                pictureBox1.Image = Image.FromFile(@"C:\Users\Giftedbryan\Downloads\loads\de.png");
-                //Counters.Nation = "";
-            }
-
-            if (textBox1.Text == "Germany")
-            {
-                Counters.Score++;
-                pictureBox1.Image = Image.FromFile(@"C:\Users\Giftedbryan\Downloads\loads\es.png");
-                //Counters.Nation = "";
-            }
-
-            if (textBox1.Text == "Spain")
-            {
-                Counters.Score++;
-                pictureBox1.Image = Image.FromFile(@"C:\Users\Giftedbryan\Downloads\loads\gb.png");
-                //Counters.Nation = "";
-            }
-
-            if (textBox1.Text == "Great Brittain")
-            {
-                Counters.Score++;
-                pictureBox1.Image = Image.FromFile(@"C:\Users\Giftedbryan\Downloads\loads\pl.png");
-                Counters.Nation = "";
-            }
-
-            if (textBox1.Text == "Poland")
-            {
-                Counters.Score++;
-                textBox1.Text = "Good job, you finished the test";
-            }
-            */
-            #endregion Legacy
-
         }
         private void Check()
         {
