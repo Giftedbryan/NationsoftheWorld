@@ -15,6 +15,7 @@ namespace NationsoftheWorld
     {
         static Program()
         {
+            
             Countryflag.Add("NL");
             Countryflag.Add("PT");
             Countryflag.Add("BE");
@@ -24,7 +25,9 @@ namespace NationsoftheWorld
             Countryflag.Add("PL");
             Countryflag.Add("NP");
             Countryflag.Add("IS");
-
+            Countryflag.Add("FR");
+            Countryflag.Add("US");
+            
             Shuffle(Countryflag);
 
             Counters.Nation = Countryflag[0];

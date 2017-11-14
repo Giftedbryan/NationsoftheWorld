@@ -26,6 +26,7 @@ namespace NationsoftheWorld
         private void button1_Click(object sender, EventArgs e)
         {
             Check();
+            textBox1.Select();
         }
         private void Check()
         {
