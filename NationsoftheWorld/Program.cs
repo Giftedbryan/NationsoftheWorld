@@ -22,21 +22,6 @@ namespace NationsoftheWorld
                 Countryflag.Add(resourceKey);
             }
 
-            /*
-            Countryflag.Add("Andorra");
-            Countryflag.Add("United_Arab_Emirates");
-            Countryflag.Add("Afghanistan");
-            Countryflag.Add("");
-            Countryflag.Add("");
-            Countryflag.Add("");
-            Countryflag.Add("");
-            Countryflag.Add("");
-            Countryflag.Add("");
-            Countryflag.Add("");
-            Countryflag.Add("");
-            Countryflag.Add("");
-            */
-
             Shuffle(Countryflag);
 
             Counters.Nation = Countryflag[0];
