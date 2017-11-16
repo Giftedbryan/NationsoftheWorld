@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
+using System.Collections;
 
 namespace NationsoftheWorld
 {
@@ -15,19 +16,27 @@ namespace NationsoftheWorld
     {
         static Program()
         {
-            
-            Countryflag.Add("NL");
-            Countryflag.Add("PT");
-            Countryflag.Add("BE");
-            Countryflag.Add("DE");
-            Countryflag.Add("ES");
-            Countryflag.Add("GB");
-            Countryflag.Add("PL");
-            Countryflag.Add("NP");
-            Countryflag.Add("IS");
-            Countryflag.Add("FR");
-            Countryflag.Add("US");
-            
+            foreach (DictionaryEntry entry in Properties.Resources.ResourceManager.GetResourceSet(System.Globalization.CultureInfo.InvariantCulture, true, true))
+            {
+                string resourceKey = entry.Key.ToString();
+                Countryflag.Add(resourceKey);
+            }
+
+            /*
+            Countryflag.Add("Andorra");
+            Countryflag.Add("United_Arab_Emirates");
+            Countryflag.Add("Afghanistan");
+            Countryflag.Add("");
+            Countryflag.Add("");
+            Countryflag.Add("");
+            Countryflag.Add("");
+            Countryflag.Add("");
+            Countryflag.Add("");
+            Countryflag.Add("");
+            Countryflag.Add("");
+            Countryflag.Add("");
+            */
+
             Shuffle(Countryflag);
 
             Counters.Nation = Countryflag[0];
@@ -52,14 +61,15 @@ namespace NationsoftheWorld
             }
         }
 
-        public static void UpdateNation() {
+        public static void UpdateNation()
+        {
             Index++;
             Counters.Nation = Countryflag[Index];
         }
 
         public static bool Checkanswer(String Input)
         {
-            if (Counters.Nation.ToUpper() == Input.ToUpper())
+            if (Counters.Nation.ToUpper().Replace("_", " ") == Input.ToUpper())
             {
                 return true;
             }
@@ -76,7 +86,6 @@ namespace NationsoftheWorld
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
-
         }
     }
 }

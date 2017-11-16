@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Drawing;
 using System.Windows.Forms;
+using System.Resources;
+using System.Reflection;
 
 namespace NationsoftheWorld
 {
@@ -12,16 +14,13 @@ namespace NationsoftheWorld
         {
             InitializeComponent();
             textBox1.Select();
-            String FileLocation = "resources/" + Counters.Nation.ToLower() + ".png";
-            pictureBox1.Image = Image.FromFile(FileLocation);
+            pictureBox1.Image = (System.Drawing.Image)Properties.Resources.ResourceManager.GetObject(Counters.Nation);
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
 
         }
-
-
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -33,26 +32,30 @@ namespace NationsoftheWorld
             if (Finished == false)
             {
 
-                if (Program.Checkanswer(textBox1.Text) && !Program.CheckLastNation())
+                if (Program.Checkanswer(textBox1.Text))
                 {
                     Counters.Score++;
                 }
 
-                else if (Program.CheckLastNation())
+                else
                 {
-                    String FileLocation = "resources/gj.png";
-                    pictureBox1.Image = Image.FromFile(FileLocation);
+                    MessageBox.Show("The correct name was: " + Counters.Nation, "Sorry!" );                    
+                }
+
+                if (Program.CheckLastNation())
+                {
+                    pictureBox1.Image = (System.Drawing.Image)Properties.Resources.gj;
                     textBox1.Text = "How did you do?";
                     Finished = true;
                     textBox1.ReadOnly = true;
                     pictureBox1.Focus();
+                    Program.Index++;
                 }
 
-                if (!Program.CheckLastNation())
+                else
                 {
                     Program.UpdateNation();
-                    String FileLocation = "resources/" + Counters.Nation.ToLower() + ".png";
-                    pictureBox1.Image = Image.FromFile(FileLocation);
+                    pictureBox1.Image = (System.Drawing.Image)Properties.Resources.ResourceManager.GetObject(Counters.Nation);
                     textBox1.Text = "";
                 }
 

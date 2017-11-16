@@ -55,21 +55,22 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -80,987 +81,593 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ad.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ad.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ae.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ae.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\af.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\af.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ag.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ag.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\al.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\al.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\am.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\am.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ao.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ao.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ar.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ar.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\at.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\at.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\au.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\au.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\az.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\az.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ba.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ba.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\bb.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\bb.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\bd.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\bd.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\be.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\be.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\bf.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\bf.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\bg.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\bg.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\bh.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\bh.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\bi.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\bi.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\bj.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\bj.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\bn.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\bn.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\bo.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\bo.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\br.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\br.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\bs.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\bs.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\bt.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\bt.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\bw.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\bw.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\by.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\by.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\bz.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\bz.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ca.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ca.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\cd.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\cd.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\cf.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\cf.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\cg.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\cg.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ch.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ch.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ci.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ci.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\cl.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\cl.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\cm.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\cm.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\cn.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\cn.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\co.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\co.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\cr.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\cr.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\cu.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\cu.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\cv.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\cv.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\cy.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\cy.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\cz.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\cz.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\de.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\de.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\dj.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\dj.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\dk.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\dk.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\dm.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\dm.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\do.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\do.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\dz.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\dz.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ec.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ec.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ee.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ee.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\eg.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\eg.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\eh.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\eh.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\er.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\er.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\es.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\es.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\et.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\et.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\fi.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\fi.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\fj.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\fj.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\fm.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\fm.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\fr.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\fr.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ga.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ga.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\gb.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\gb.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\gd.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\gd.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ge.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ge.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\gh.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\gh.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\gj.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Resources\gm.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <None Include="Resources\gj.png" />
+    <Content Include="Resources\gm.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\gn.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\gn.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\gq.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\gq.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\gr.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\gr.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\gt.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\gt.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\gw.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\gw.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\gy.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\gy.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\hn.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\hn.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\hr.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\hr.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ht.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ht.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\hu.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\hu.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\id.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\id.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ie.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ie.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\il.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\il.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\in.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\in.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\iq.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\iq.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ir.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ir.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\is.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\is.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\it.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\it.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\jm.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\jm.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\jo.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\jo.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\jp.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\jp.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ke.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ke.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\kg.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\kg.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\kh.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\kh.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ki.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ki.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\km.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\km.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\kn.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\kn.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\kp.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\kp.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\kr.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\kr.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ks.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ks.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\kw.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\kw.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\kz.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\kz.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\la.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\la.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\lb.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\lb.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\lc.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\lc.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\li.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\li.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\lk.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\lk.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\lr.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\lr.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ls.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ls.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\lt.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\lt.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\lu.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\lu.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\lv.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\lv.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ly.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ly.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ma.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ma.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\mc.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\mc.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\md.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\md.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\me.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\me.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\mg.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\mg.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\mh.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\mh.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\mk.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\mk.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ml.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ml.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\mm.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\mm.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\mn.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\mn.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\mr.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\mr.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\mt.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\mt.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\mu.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\mu.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\mv.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\mv.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\mw.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\mw.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\mx.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\mx.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\my.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\my.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\mz.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\mz.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\na.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\na.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ne.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ne.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ng.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ng.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ni.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ni.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\nl.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\nl.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\no.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\no.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\np.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\np.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\nr.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\nr.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\nz.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\nz.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\om.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\om.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\pa.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\pa.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\pe.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\pe.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\pg.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\pg.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ph.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ph.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\pk.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\pk.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\pl.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\pl.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\pt.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\pt.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\pw.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\pw.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\py.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\py.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\qa.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\qa.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ro.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ro.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\rs.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\rs.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ru.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ru.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\rw.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\rw.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\sa.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\sa.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\sb.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\sb.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\sc.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\sc.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\sd.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\sd.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\se.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\se.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\sg.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\sg.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\si.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\si.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\sk.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\sk.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\sl.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\sl.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\sm.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\sm.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\sn.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\sn.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\so.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\so.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\sr.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\sr.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\st.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\st.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\sv.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\sv.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\sy.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\sy.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\sz.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\sz.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\td.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\td.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\tg.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\tg.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\th.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\th.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\tj.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\tj.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\tl.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\tl.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\tm.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\tm.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\tn.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\tn.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\to.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\to.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\tr.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\tr.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\tt.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\tt.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\tv.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\tv.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\tw.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\tw.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\tz.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\tz.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ua.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ua.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ug.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ug.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\us.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\us.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\uy.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\uy.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\uz.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\uz.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\va.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\va.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\vc.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\vc.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ve.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ve.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\vn.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\vn.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\vu.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\vu.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ws.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ws.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\ye.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\ye.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\za.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\za.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\zm.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\zm.png" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\zw.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
+    <Content Include="Resources\zw.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
