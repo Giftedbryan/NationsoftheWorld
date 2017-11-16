@@ -63,36 +63,6 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _do {
-            get {
-                object obj = ResourceManager.GetObject("do", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap _in {
-            get {
-                object obj = ResourceManager.GetObject("in", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap _is {
-            get {
-                object obj = ResourceManager.GetObject("is", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap Afghanistan {
             get {
                 object obj = ResourceManager.GetObject("Afghanistan", resourceCulture);
@@ -103,9 +73,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap al {
+        internal static System.Drawing.Bitmap Albania {
             get {
-                object obj = ResourceManager.GetObject("al", resourceCulture);
+                object obj = ResourceManager.GetObject("Albania", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,9 +83,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap am {
+        internal static System.Drawing.Bitmap Algeria {
             get {
-                object obj = ResourceManager.GetObject("am", resourceCulture);
+                object obj = ResourceManager.GetObject("Algeria", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -133,6 +103,16 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Angola {
+            get {
+                object obj = ResourceManager.GetObject("Angola", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Antigua_and_Barbuda {
             get {
                 object obj = ResourceManager.GetObject("Antigua_and_Barbuda", resourceCulture);
@@ -143,9 +123,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ao {
+        internal static System.Drawing.Bitmap Argentina {
             get {
-                object obj = ResourceManager.GetObject("ao", resourceCulture);
+                object obj = ResourceManager.GetObject("Argentina", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -153,9 +133,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ar {
+        internal static System.Drawing.Bitmap Armenia {
             get {
-                object obj = ResourceManager.GetObject("ar", resourceCulture);
+                object obj = ResourceManager.GetObject("Armenia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -163,9 +143,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap at {
+        internal static System.Drawing.Bitmap Australia {
             get {
-                object obj = ResourceManager.GetObject("at", resourceCulture);
+                object obj = ResourceManager.GetObject("Australia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -173,9 +153,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap au {
+        internal static System.Drawing.Bitmap Austria {
             get {
-                object obj = ResourceManager.GetObject("au", resourceCulture);
+                object obj = ResourceManager.GetObject("Austria", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -183,9 +163,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap az {
+        internal static System.Drawing.Bitmap Azerbaijan {
             get {
-                object obj = ResourceManager.GetObject("az", resourceCulture);
+                object obj = ResourceManager.GetObject("Azerbaijan", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -193,9 +173,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ba {
+        internal static System.Drawing.Bitmap Bahamas {
             get {
-                object obj = ResourceManager.GetObject("ba", resourceCulture);
+                object obj = ResourceManager.GetObject("Bahamas", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -203,9 +183,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap bb {
+        internal static System.Drawing.Bitmap Bahrain {
             get {
-                object obj = ResourceManager.GetObject("bb", resourceCulture);
+                object obj = ResourceManager.GetObject("Bahrain", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -213,9 +193,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap bd {
+        internal static System.Drawing.Bitmap Bangladesh {
             get {
-                object obj = ResourceManager.GetObject("bd", resourceCulture);
+                object obj = ResourceManager.GetObject("Bangladesh", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -223,9 +203,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap be {
+        internal static System.Drawing.Bitmap Barbados {
             get {
-                object obj = ResourceManager.GetObject("be", resourceCulture);
+                object obj = ResourceManager.GetObject("Barbados", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -233,9 +213,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap bf {
+        internal static System.Drawing.Bitmap Belarus {
             get {
-                object obj = ResourceManager.GetObject("bf", resourceCulture);
+                object obj = ResourceManager.GetObject("Belarus", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -243,9 +223,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap bg {
+        internal static System.Drawing.Bitmap Belgium {
             get {
-                object obj = ResourceManager.GetObject("bg", resourceCulture);
+                object obj = ResourceManager.GetObject("Belgium", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -253,9 +233,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap bh {
+        internal static System.Drawing.Bitmap Belize {
             get {
-                object obj = ResourceManager.GetObject("bh", resourceCulture);
+                object obj = ResourceManager.GetObject("Belize", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -263,9 +243,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap bi {
+        internal static System.Drawing.Bitmap Benin {
             get {
-                object obj = ResourceManager.GetObject("bi", resourceCulture);
+                object obj = ResourceManager.GetObject("Benin", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -273,9 +253,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap bj {
+        internal static System.Drawing.Bitmap Bhutan {
             get {
-                object obj = ResourceManager.GetObject("bj", resourceCulture);
+                object obj = ResourceManager.GetObject("Bhutan", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -283,9 +263,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap bn {
+        internal static System.Drawing.Bitmap Bolivia {
             get {
-                object obj = ResourceManager.GetObject("bn", resourceCulture);
+                object obj = ResourceManager.GetObject("Bolivia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -293,9 +273,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap bo {
+        internal static System.Drawing.Bitmap Bosnia_and_Herzegovina {
             get {
-                object obj = ResourceManager.GetObject("bo", resourceCulture);
+                object obj = ResourceManager.GetObject("Bosnia_and_Herzegovina", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -303,9 +283,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap br {
+        internal static System.Drawing.Bitmap Botswana {
             get {
-                object obj = ResourceManager.GetObject("br", resourceCulture);
+                object obj = ResourceManager.GetObject("Botswana", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -313,9 +293,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap bs {
+        internal static System.Drawing.Bitmap Brazil {
             get {
-                object obj = ResourceManager.GetObject("bs", resourceCulture);
+                object obj = ResourceManager.GetObject("Brazil", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -323,9 +303,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap bt {
+        internal static System.Drawing.Bitmap Brunei {
             get {
-                object obj = ResourceManager.GetObject("bt", resourceCulture);
+                object obj = ResourceManager.GetObject("Brunei", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -333,9 +313,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap bw {
+        internal static System.Drawing.Bitmap Bulgaria {
             get {
-                object obj = ResourceManager.GetObject("bw", resourceCulture);
+                object obj = ResourceManager.GetObject("Bulgaria", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -343,9 +323,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap by {
+        internal static System.Drawing.Bitmap Burkina_Faso {
             get {
-                object obj = ResourceManager.GetObject("by", resourceCulture);
+                object obj = ResourceManager.GetObject("Burkina_Faso", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -353,9 +333,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap bz {
+        internal static System.Drawing.Bitmap Burundi {
             get {
-                object obj = ResourceManager.GetObject("bz", resourceCulture);
+                object obj = ResourceManager.GetObject("Burundi", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -363,9 +343,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ca {
+        internal static System.Drawing.Bitmap Cambodia {
             get {
-                object obj = ResourceManager.GetObject("ca", resourceCulture);
+                object obj = ResourceManager.GetObject("Cambodia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -373,9 +353,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cd {
+        internal static System.Drawing.Bitmap Cameroon {
             get {
-                object obj = ResourceManager.GetObject("cd", resourceCulture);
+                object obj = ResourceManager.GetObject("Cameroon", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -383,9 +363,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cf {
+        internal static System.Drawing.Bitmap Canada {
             get {
-                object obj = ResourceManager.GetObject("cf", resourceCulture);
+                object obj = ResourceManager.GetObject("Canada", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -393,9 +373,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cg {
+        internal static System.Drawing.Bitmap Cape_Verde {
             get {
-                object obj = ResourceManager.GetObject("cg", resourceCulture);
+                object obj = ResourceManager.GetObject("Cape_Verde", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -403,9 +383,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ch {
+        internal static System.Drawing.Bitmap Central_African_Republic {
             get {
-                object obj = ResourceManager.GetObject("ch", resourceCulture);
+                object obj = ResourceManager.GetObject("Central_African_Republic", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -413,9 +393,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ci {
+        internal static System.Drawing.Bitmap Chad {
             get {
-                object obj = ResourceManager.GetObject("ci", resourceCulture);
+                object obj = ResourceManager.GetObject("Chad", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -423,9 +403,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cl {
+        internal static System.Drawing.Bitmap Chile {
             get {
-                object obj = ResourceManager.GetObject("cl", resourceCulture);
+                object obj = ResourceManager.GetObject("Chile", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -433,9 +413,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cm {
+        internal static System.Drawing.Bitmap Colombia {
             get {
-                object obj = ResourceManager.GetObject("cm", resourceCulture);
+                object obj = ResourceManager.GetObject("Colombia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -443,9 +423,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cn {
+        internal static System.Drawing.Bitmap Comoros {
             get {
-                object obj = ResourceManager.GetObject("cn", resourceCulture);
+                object obj = ResourceManager.GetObject("Comoros", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -453,9 +433,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap co {
+        internal static System.Drawing.Bitmap Costa_Rica {
             get {
-                object obj = ResourceManager.GetObject("co", resourceCulture);
+                object obj = ResourceManager.GetObject("Costa_Rica", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -463,9 +443,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cr {
+        internal static System.Drawing.Bitmap Cote_d_Ivoire {
             get {
-                object obj = ResourceManager.GetObject("cr", resourceCulture);
+                object obj = ResourceManager.GetObject("Cote_d_Ivoire", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -473,9 +453,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cu {
+        internal static System.Drawing.Bitmap Croatia {
             get {
-                object obj = ResourceManager.GetObject("cu", resourceCulture);
+                object obj = ResourceManager.GetObject("Croatia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -483,9 +463,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cv {
+        internal static System.Drawing.Bitmap Cuba {
             get {
-                object obj = ResourceManager.GetObject("cv", resourceCulture);
+                object obj = ResourceManager.GetObject("Cuba", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -493,9 +473,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cy {
+        internal static System.Drawing.Bitmap Cyprus {
             get {
-                object obj = ResourceManager.GetObject("cy", resourceCulture);
+                object obj = ResourceManager.GetObject("Cyprus", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -503,9 +483,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap cz {
+        internal static System.Drawing.Bitmap Czech_Republic {
             get {
-                object obj = ResourceManager.GetObject("cz", resourceCulture);
+                object obj = ResourceManager.GetObject("Czech_Republic", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -513,9 +493,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap de {
+        internal static System.Drawing.Bitmap Democratic_Republic_of_the_Congo {
             get {
-                object obj = ResourceManager.GetObject("de", resourceCulture);
+                object obj = ResourceManager.GetObject("Democratic_Republic_of_the_Congo", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -523,9 +503,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap dj {
+        internal static System.Drawing.Bitmap Denmark {
             get {
-                object obj = ResourceManager.GetObject("dj", resourceCulture);
+                object obj = ResourceManager.GetObject("Denmark", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -533,9 +513,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap dk {
+        internal static System.Drawing.Bitmap Djibouti {
             get {
-                object obj = ResourceManager.GetObject("dk", resourceCulture);
+                object obj = ResourceManager.GetObject("Djibouti", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -543,9 +523,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap dm {
+        internal static System.Drawing.Bitmap Dominica {
             get {
-                object obj = ResourceManager.GetObject("dm", resourceCulture);
+                object obj = ResourceManager.GetObject("Dominica", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -553,9 +533,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap dz {
+        internal static System.Drawing.Bitmap Dominican_Republic {
             get {
-                object obj = ResourceManager.GetObject("dz", resourceCulture);
+                object obj = ResourceManager.GetObject("Dominican_Republic", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -563,9 +543,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ec {
+        internal static System.Drawing.Bitmap East_Timor {
             get {
-                object obj = ResourceManager.GetObject("ec", resourceCulture);
+                object obj = ResourceManager.GetObject("East_Timor", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -573,9 +553,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ee {
+        internal static System.Drawing.Bitmap Ecuador {
             get {
-                object obj = ResourceManager.GetObject("ee", resourceCulture);
+                object obj = ResourceManager.GetObject("Ecuador", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -583,9 +563,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap eg {
+        internal static System.Drawing.Bitmap Egypt {
             get {
-                object obj = ResourceManager.GetObject("eg", resourceCulture);
+                object obj = ResourceManager.GetObject("Egypt", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -593,9 +573,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap eh {
+        internal static System.Drawing.Bitmap El_Salvador {
             get {
-                object obj = ResourceManager.GetObject("eh", resourceCulture);
+                object obj = ResourceManager.GetObject("El_Salvador", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -603,9 +583,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap er {
+        internal static System.Drawing.Bitmap Equatorial_Guinea {
             get {
-                object obj = ResourceManager.GetObject("er", resourceCulture);
+                object obj = ResourceManager.GetObject("Equatorial_Guinea", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -613,9 +593,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap es {
+        internal static System.Drawing.Bitmap Eritrea {
             get {
-                object obj = ResourceManager.GetObject("es", resourceCulture);
+                object obj = ResourceManager.GetObject("Eritrea", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -623,9 +603,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap et {
+        internal static System.Drawing.Bitmap Estonia {
             get {
-                object obj = ResourceManager.GetObject("et", resourceCulture);
+                object obj = ResourceManager.GetObject("Estonia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -633,9 +613,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap fi {
+        internal static System.Drawing.Bitmap Ethiopia {
             get {
-                object obj = ResourceManager.GetObject("fi", resourceCulture);
+                object obj = ResourceManager.GetObject("Ethiopia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -643,9 +623,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap fj {
+        internal static System.Drawing.Bitmap Fiji {
             get {
-                object obj = ResourceManager.GetObject("fj", resourceCulture);
+                object obj = ResourceManager.GetObject("Fiji", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -653,9 +633,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap fm {
+        internal static System.Drawing.Bitmap Finland {
             get {
-                object obj = ResourceManager.GetObject("fm", resourceCulture);
+                object obj = ResourceManager.GetObject("Finland", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -663,9 +643,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap fr {
+        internal static System.Drawing.Bitmap France {
             get {
-                object obj = ResourceManager.GetObject("fr", resourceCulture);
+                object obj = ResourceManager.GetObject("France", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -673,9 +653,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ga {
+        internal static System.Drawing.Bitmap Gabon {
             get {
-                object obj = ResourceManager.GetObject("ga", resourceCulture);
+                object obj = ResourceManager.GetObject("Gabon", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -683,9 +663,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap gb {
+        internal static System.Drawing.Bitmap Gambia {
             get {
-                object obj = ResourceManager.GetObject("gb", resourceCulture);
+                object obj = ResourceManager.GetObject("Gambia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -693,9 +673,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap gd {
+        internal static System.Drawing.Bitmap Georgia {
             get {
-                object obj = ResourceManager.GetObject("gd", resourceCulture);
+                object obj = ResourceManager.GetObject("Georgia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -703,9 +683,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ge {
+        internal static System.Drawing.Bitmap Germany {
             get {
-                object obj = ResourceManager.GetObject("ge", resourceCulture);
+                object obj = ResourceManager.GetObject("Germany", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -713,9 +693,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap gh {
+        internal static System.Drawing.Bitmap Ghana {
             get {
-                object obj = ResourceManager.GetObject("gh", resourceCulture);
+                object obj = ResourceManager.GetObject("Ghana", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -733,9 +713,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap gm {
+        internal static System.Drawing.Bitmap Great_Brittain {
             get {
-                object obj = ResourceManager.GetObject("gm", resourceCulture);
+                object obj = ResourceManager.GetObject("Great_Brittain", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -743,9 +723,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap gn {
+        internal static System.Drawing.Bitmap Greece {
             get {
-                object obj = ResourceManager.GetObject("gn", resourceCulture);
+                object obj = ResourceManager.GetObject("Greece", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -753,9 +733,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap gq {
+        internal static System.Drawing.Bitmap Grenada {
             get {
-                object obj = ResourceManager.GetObject("gq", resourceCulture);
+                object obj = ResourceManager.GetObject("Grenada", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -763,9 +743,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap gr {
+        internal static System.Drawing.Bitmap Guatemala {
             get {
-                object obj = ResourceManager.GetObject("gr", resourceCulture);
+                object obj = ResourceManager.GetObject("Guatemala", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -773,9 +753,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap gt {
+        internal static System.Drawing.Bitmap Guinea {
             get {
-                object obj = ResourceManager.GetObject("gt", resourceCulture);
+                object obj = ResourceManager.GetObject("Guinea", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -783,9 +763,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap gw {
+        internal static System.Drawing.Bitmap Guinea_Bissau {
             get {
-                object obj = ResourceManager.GetObject("gw", resourceCulture);
+                object obj = ResourceManager.GetObject("Guinea_Bissau", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -793,9 +773,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap gy {
+        internal static System.Drawing.Bitmap Guyana {
             get {
-                object obj = ResourceManager.GetObject("gy", resourceCulture);
+                object obj = ResourceManager.GetObject("Guyana", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -803,9 +783,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap hn {
+        internal static System.Drawing.Bitmap Haiti {
             get {
-                object obj = ResourceManager.GetObject("hn", resourceCulture);
+                object obj = ResourceManager.GetObject("Haiti", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -813,9 +793,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap hr {
+        internal static System.Drawing.Bitmap Honduras {
             get {
-                object obj = ResourceManager.GetObject("hr", resourceCulture);
+                object obj = ResourceManager.GetObject("Honduras", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -823,9 +803,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ht {
+        internal static System.Drawing.Bitmap Hungary {
             get {
-                object obj = ResourceManager.GetObject("ht", resourceCulture);
+                object obj = ResourceManager.GetObject("Hungary", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -833,9 +813,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap hu {
+        internal static System.Drawing.Bitmap Iceland {
             get {
-                object obj = ResourceManager.GetObject("hu", resourceCulture);
+                object obj = ResourceManager.GetObject("Iceland", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -843,9 +823,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap id {
+        internal static System.Drawing.Bitmap India {
             get {
-                object obj = ResourceManager.GetObject("id", resourceCulture);
+                object obj = ResourceManager.GetObject("India", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -853,9 +833,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ie {
+        internal static System.Drawing.Bitmap Indonesia {
             get {
-                object obj = ResourceManager.GetObject("ie", resourceCulture);
+                object obj = ResourceManager.GetObject("Indonesia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -863,9 +843,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap il {
+        internal static System.Drawing.Bitmap Iran {
             get {
-                object obj = ResourceManager.GetObject("il", resourceCulture);
+                object obj = ResourceManager.GetObject("Iran", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -873,9 +853,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap iq {
+        internal static System.Drawing.Bitmap Iraq {
             get {
-                object obj = ResourceManager.GetObject("iq", resourceCulture);
+                object obj = ResourceManager.GetObject("Iraq", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -883,9 +863,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ir {
+        internal static System.Drawing.Bitmap Ireland {
             get {
-                object obj = ResourceManager.GetObject("ir", resourceCulture);
+                object obj = ResourceManager.GetObject("Ireland", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -893,9 +873,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap it {
+        internal static System.Drawing.Bitmap Israel {
             get {
-                object obj = ResourceManager.GetObject("it", resourceCulture);
+                object obj = ResourceManager.GetObject("Israel", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -903,9 +883,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap jm {
+        internal static System.Drawing.Bitmap Italy {
             get {
-                object obj = ResourceManager.GetObject("jm", resourceCulture);
+                object obj = ResourceManager.GetObject("Italy", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -913,9 +893,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap jo {
+        internal static System.Drawing.Bitmap Jamaica {
             get {
-                object obj = ResourceManager.GetObject("jo", resourceCulture);
+                object obj = ResourceManager.GetObject("Jamaica", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -923,9 +903,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap jp {
+        internal static System.Drawing.Bitmap Japan {
             get {
-                object obj = ResourceManager.GetObject("jp", resourceCulture);
+                object obj = ResourceManager.GetObject("Japan", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -933,9 +913,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ke {
+        internal static System.Drawing.Bitmap Jordan {
             get {
-                object obj = ResourceManager.GetObject("ke", resourceCulture);
+                object obj = ResourceManager.GetObject("Jordan", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -943,9 +923,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap kg {
+        internal static System.Drawing.Bitmap Kazakhstan {
             get {
-                object obj = ResourceManager.GetObject("kg", resourceCulture);
+                object obj = ResourceManager.GetObject("Kazakhstan", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -953,9 +933,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap kh {
+        internal static System.Drawing.Bitmap Kenia {
             get {
-                object obj = ResourceManager.GetObject("kh", resourceCulture);
+                object obj = ResourceManager.GetObject("Kenia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -963,9 +943,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ki {
+        internal static System.Drawing.Bitmap Kiribati {
             get {
-                object obj = ResourceManager.GetObject("ki", resourceCulture);
+                object obj = ResourceManager.GetObject("Kiribati", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -973,9 +953,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap km {
+        internal static System.Drawing.Bitmap Kosovo {
             get {
-                object obj = ResourceManager.GetObject("km", resourceCulture);
+                object obj = ResourceManager.GetObject("Kosovo", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -983,9 +963,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap kn {
+        internal static System.Drawing.Bitmap Kuwait {
             get {
-                object obj = ResourceManager.GetObject("kn", resourceCulture);
+                object obj = ResourceManager.GetObject("Kuwait", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -993,9 +973,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap kp {
+        internal static System.Drawing.Bitmap Kyrgyzstan {
             get {
-                object obj = ResourceManager.GetObject("kp", resourceCulture);
+                object obj = ResourceManager.GetObject("Kyrgyzstan", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1003,9 +983,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap kr {
+        internal static System.Drawing.Bitmap Laos {
             get {
-                object obj = ResourceManager.GetObject("kr", resourceCulture);
+                object obj = ResourceManager.GetObject("Laos", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1013,9 +993,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ks {
+        internal static System.Drawing.Bitmap Latvia {
             get {
-                object obj = ResourceManager.GetObject("ks", resourceCulture);
+                object obj = ResourceManager.GetObject("Latvia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1023,9 +1003,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap kw {
+        internal static System.Drawing.Bitmap Lebanon {
             get {
-                object obj = ResourceManager.GetObject("kw", resourceCulture);
+                object obj = ResourceManager.GetObject("Lebanon", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1033,9 +1013,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap kz {
+        internal static System.Drawing.Bitmap Lesotho {
             get {
-                object obj = ResourceManager.GetObject("kz", resourceCulture);
+                object obj = ResourceManager.GetObject("Lesotho", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1043,9 +1023,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap la {
+        internal static System.Drawing.Bitmap Liberia {
             get {
-                object obj = ResourceManager.GetObject("la", resourceCulture);
+                object obj = ResourceManager.GetObject("Liberia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1053,9 +1033,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap lb {
+        internal static System.Drawing.Bitmap Libya {
             get {
-                object obj = ResourceManager.GetObject("lb", resourceCulture);
+                object obj = ResourceManager.GetObject("Libya", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1063,9 +1043,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap lc {
+        internal static System.Drawing.Bitmap Liechtenstein {
             get {
-                object obj = ResourceManager.GetObject("lc", resourceCulture);
+                object obj = ResourceManager.GetObject("Liechtenstein", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1073,9 +1053,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap li {
+        internal static System.Drawing.Bitmap Lithuania {
             get {
-                object obj = ResourceManager.GetObject("li", resourceCulture);
+                object obj = ResourceManager.GetObject("Lithuania", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1083,9 +1063,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap lk {
+        internal static System.Drawing.Bitmap Luxembourg {
             get {
-                object obj = ResourceManager.GetObject("lk", resourceCulture);
+                object obj = ResourceManager.GetObject("Luxembourg", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1093,9 +1073,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap lr {
+        internal static System.Drawing.Bitmap Macedonia {
             get {
-                object obj = ResourceManager.GetObject("lr", resourceCulture);
+                object obj = ResourceManager.GetObject("Macedonia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1103,9 +1083,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ls {
+        internal static System.Drawing.Bitmap Madagascar {
             get {
-                object obj = ResourceManager.GetObject("ls", resourceCulture);
+                object obj = ResourceManager.GetObject("Madagascar", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1113,9 +1093,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap lt {
+        internal static System.Drawing.Bitmap Malawi {
             get {
-                object obj = ResourceManager.GetObject("lt", resourceCulture);
+                object obj = ResourceManager.GetObject("Malawi", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1123,9 +1103,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap lu {
+        internal static System.Drawing.Bitmap Malaysia {
             get {
-                object obj = ResourceManager.GetObject("lu", resourceCulture);
+                object obj = ResourceManager.GetObject("Malaysia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1133,9 +1113,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap lv {
+        internal static System.Drawing.Bitmap Maldives {
             get {
-                object obj = ResourceManager.GetObject("lv", resourceCulture);
+                object obj = ResourceManager.GetObject("Maldives", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1143,9 +1123,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ly {
+        internal static System.Drawing.Bitmap Mali {
             get {
-                object obj = ResourceManager.GetObject("ly", resourceCulture);
+                object obj = ResourceManager.GetObject("Mali", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1153,9 +1133,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ma {
+        internal static System.Drawing.Bitmap Malta {
             get {
-                object obj = ResourceManager.GetObject("ma", resourceCulture);
+                object obj = ResourceManager.GetObject("Malta", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1163,9 +1143,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap mc {
+        internal static System.Drawing.Bitmap Marshall_Islands {
             get {
-                object obj = ResourceManager.GetObject("mc", resourceCulture);
+                object obj = ResourceManager.GetObject("Marshall_Islands", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1173,9 +1153,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap md {
+        internal static System.Drawing.Bitmap Mauritania {
             get {
-                object obj = ResourceManager.GetObject("md", resourceCulture);
+                object obj = ResourceManager.GetObject("Mauritania", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1183,9 +1163,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap me {
+        internal static System.Drawing.Bitmap Mauritius {
             get {
-                object obj = ResourceManager.GetObject("me", resourceCulture);
+                object obj = ResourceManager.GetObject("Mauritius", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1193,9 +1173,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap mg {
+        internal static System.Drawing.Bitmap Mexico {
             get {
-                object obj = ResourceManager.GetObject("mg", resourceCulture);
+                object obj = ResourceManager.GetObject("Mexico", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1203,9 +1183,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap mh {
+        internal static System.Drawing.Bitmap Micronesia {
             get {
-                object obj = ResourceManager.GetObject("mh", resourceCulture);
+                object obj = ResourceManager.GetObject("Micronesia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1213,9 +1193,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap mk {
+        internal static System.Drawing.Bitmap Moldova {
             get {
-                object obj = ResourceManager.GetObject("mk", resourceCulture);
+                object obj = ResourceManager.GetObject("Moldova", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1223,9 +1203,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ml {
+        internal static System.Drawing.Bitmap Monaco {
             get {
-                object obj = ResourceManager.GetObject("ml", resourceCulture);
+                object obj = ResourceManager.GetObject("Monaco", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1233,9 +1213,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap mm {
+        internal static System.Drawing.Bitmap Mongolia {
             get {
-                object obj = ResourceManager.GetObject("mm", resourceCulture);
+                object obj = ResourceManager.GetObject("Mongolia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1243,9 +1223,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap mn {
+        internal static System.Drawing.Bitmap Montenegro {
             get {
-                object obj = ResourceManager.GetObject("mn", resourceCulture);
+                object obj = ResourceManager.GetObject("Montenegro", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1253,9 +1233,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap mr {
+        internal static System.Drawing.Bitmap Morocco {
             get {
-                object obj = ResourceManager.GetObject("mr", resourceCulture);
+                object obj = ResourceManager.GetObject("Morocco", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1263,9 +1243,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap mt {
+        internal static System.Drawing.Bitmap Mozambique {
             get {
-                object obj = ResourceManager.GetObject("mt", resourceCulture);
+                object obj = ResourceManager.GetObject("Mozambique", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1273,9 +1253,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap mu {
+        internal static System.Drawing.Bitmap Myanmar {
             get {
-                object obj = ResourceManager.GetObject("mu", resourceCulture);
+                object obj = ResourceManager.GetObject("Myanmar", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1283,9 +1263,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap mv {
+        internal static System.Drawing.Bitmap Namibia {
             get {
-                object obj = ResourceManager.GetObject("mv", resourceCulture);
+                object obj = ResourceManager.GetObject("Namibia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1293,9 +1273,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap mw {
+        internal static System.Drawing.Bitmap Nauru {
             get {
-                object obj = ResourceManager.GetObject("mw", resourceCulture);
+                object obj = ResourceManager.GetObject("Nauru", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1303,9 +1283,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap mx {
+        internal static System.Drawing.Bitmap Nepal {
             get {
-                object obj = ResourceManager.GetObject("mx", resourceCulture);
+                object obj = ResourceManager.GetObject("Nepal", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1313,9 +1293,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap my {
+        internal static System.Drawing.Bitmap New_Zealand {
             get {
-                object obj = ResourceManager.GetObject("my", resourceCulture);
+                object obj = ResourceManager.GetObject("New_Zealand", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1323,9 +1303,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap mz {
+        internal static System.Drawing.Bitmap Nicaragua {
             get {
-                object obj = ResourceManager.GetObject("mz", resourceCulture);
+                object obj = ResourceManager.GetObject("Nicaragua", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1333,9 +1313,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap na {
+        internal static System.Drawing.Bitmap Niger {
             get {
-                object obj = ResourceManager.GetObject("na", resourceCulture);
+                object obj = ResourceManager.GetObject("Niger", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1343,9 +1323,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ne {
+        internal static System.Drawing.Bitmap Nigeria {
             get {
-                object obj = ResourceManager.GetObject("ne", resourceCulture);
+                object obj = ResourceManager.GetObject("Nigeria", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1353,9 +1333,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ng {
+        internal static System.Drawing.Bitmap North_Korea {
             get {
-                object obj = ResourceManager.GetObject("ng", resourceCulture);
+                object obj = ResourceManager.GetObject("North_Korea", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1363,9 +1343,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ni {
+        internal static System.Drawing.Bitmap Norway {
             get {
-                object obj = ResourceManager.GetObject("ni", resourceCulture);
+                object obj = ResourceManager.GetObject("Norway", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1373,9 +1353,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap nl {
+        internal static System.Drawing.Bitmap Oman {
             get {
-                object obj = ResourceManager.GetObject("nl", resourceCulture);
+                object obj = ResourceManager.GetObject("Oman", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1383,9 +1363,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap no {
+        internal static System.Drawing.Bitmap Pakistan {
             get {
-                object obj = ResourceManager.GetObject("no", resourceCulture);
+                object obj = ResourceManager.GetObject("Pakistan", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1393,9 +1373,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap np {
+        internal static System.Drawing.Bitmap Palau {
             get {
-                object obj = ResourceManager.GetObject("np", resourceCulture);
+                object obj = ResourceManager.GetObject("Palau", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1403,9 +1383,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap nr {
+        internal static System.Drawing.Bitmap Panama {
             get {
-                object obj = ResourceManager.GetObject("nr", resourceCulture);
+                object obj = ResourceManager.GetObject("Panama", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1413,9 +1393,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap nz {
+        internal static System.Drawing.Bitmap Papua_New_Guinea {
             get {
-                object obj = ResourceManager.GetObject("nz", resourceCulture);
+                object obj = ResourceManager.GetObject("Papua_New_Guinea", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1423,9 +1403,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap om {
+        internal static System.Drawing.Bitmap Paraguay {
             get {
-                object obj = ResourceManager.GetObject("om", resourceCulture);
+                object obj = ResourceManager.GetObject("Paraguay", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1433,9 +1413,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap pa {
+        internal static System.Drawing.Bitmap People_s_Republic_of_China {
             get {
-                object obj = ResourceManager.GetObject("pa", resourceCulture);
+                object obj = ResourceManager.GetObject("People_s_Republic_of_China", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1443,9 +1423,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap pe {
+        internal static System.Drawing.Bitmap Peru {
             get {
-                object obj = ResourceManager.GetObject("pe", resourceCulture);
+                object obj = ResourceManager.GetObject("Peru", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1453,9 +1433,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap pg {
+        internal static System.Drawing.Bitmap Philippines {
             get {
-                object obj = ResourceManager.GetObject("pg", resourceCulture);
+                object obj = ResourceManager.GetObject("Philippines", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1463,9 +1443,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ph {
+        internal static System.Drawing.Bitmap Poland {
             get {
-                object obj = ResourceManager.GetObject("ph", resourceCulture);
+                object obj = ResourceManager.GetObject("Poland", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1473,9 +1453,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap pk {
+        internal static System.Drawing.Bitmap Portugal {
             get {
-                object obj = ResourceManager.GetObject("pk", resourceCulture);
+                object obj = ResourceManager.GetObject("Portugal", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1483,9 +1463,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap pl {
+        internal static System.Drawing.Bitmap Qatar {
             get {
-                object obj = ResourceManager.GetObject("pl", resourceCulture);
+                object obj = ResourceManager.GetObject("Qatar", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1493,9 +1473,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap pt {
+        internal static System.Drawing.Bitmap Republic_of_China {
             get {
-                object obj = ResourceManager.GetObject("pt", resourceCulture);
+                object obj = ResourceManager.GetObject("Republic_of_China", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1503,9 +1483,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap pw {
+        internal static System.Drawing.Bitmap Republic_of_the_Congo {
             get {
-                object obj = ResourceManager.GetObject("pw", resourceCulture);
+                object obj = ResourceManager.GetObject("Republic_of_the_Congo", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1513,9 +1493,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap py {
+        internal static System.Drawing.Bitmap Romania {
             get {
-                object obj = ResourceManager.GetObject("py", resourceCulture);
+                object obj = ResourceManager.GetObject("Romania", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1523,9 +1503,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap qa {
+        internal static System.Drawing.Bitmap Russia {
             get {
-                object obj = ResourceManager.GetObject("qa", resourceCulture);
+                object obj = ResourceManager.GetObject("Russia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1533,9 +1513,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ro {
+        internal static System.Drawing.Bitmap Rwanda {
             get {
-                object obj = ResourceManager.GetObject("ro", resourceCulture);
+                object obj = ResourceManager.GetObject("Rwanda", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1543,9 +1523,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap rs {
+        internal static System.Drawing.Bitmap Saint_Kitts_and_Nevis {
             get {
-                object obj = ResourceManager.GetObject("rs", resourceCulture);
+                object obj = ResourceManager.GetObject("Saint_Kitts_and_Nevis", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1553,9 +1533,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ru {
+        internal static System.Drawing.Bitmap Saint_Lucia {
             get {
-                object obj = ResourceManager.GetObject("ru", resourceCulture);
+                object obj = ResourceManager.GetObject("Saint_Lucia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1563,9 +1543,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap rw {
+        internal static System.Drawing.Bitmap Saint_Vincent_and_the_Grenadines {
             get {
-                object obj = ResourceManager.GetObject("rw", resourceCulture);
+                object obj = ResourceManager.GetObject("Saint_Vincent_and_the_Grenadines", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1573,9 +1553,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap sa {
+        internal static System.Drawing.Bitmap Samoa {
             get {
-                object obj = ResourceManager.GetObject("sa", resourceCulture);
+                object obj = ResourceManager.GetObject("Samoa", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1583,9 +1563,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap sb {
+        internal static System.Drawing.Bitmap San_Marino {
             get {
-                object obj = ResourceManager.GetObject("sb", resourceCulture);
+                object obj = ResourceManager.GetObject("San_Marino", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1593,9 +1573,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap sc {
+        internal static System.Drawing.Bitmap Sao_Tome_and_Principe {
             get {
-                object obj = ResourceManager.GetObject("sc", resourceCulture);
+                object obj = ResourceManager.GetObject("Sao_Tome_and_Principe", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1603,9 +1583,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap sd {
+        internal static System.Drawing.Bitmap Saudi_Arabia {
             get {
-                object obj = ResourceManager.GetObject("sd", resourceCulture);
+                object obj = ResourceManager.GetObject("Saudi_Arabia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1613,9 +1593,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap se {
+        internal static System.Drawing.Bitmap Senegal {
             get {
-                object obj = ResourceManager.GetObject("se", resourceCulture);
+                object obj = ResourceManager.GetObject("Senegal", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1623,9 +1603,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap sg {
+        internal static System.Drawing.Bitmap Serbia {
             get {
-                object obj = ResourceManager.GetObject("sg", resourceCulture);
+                object obj = ResourceManager.GetObject("Serbia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1633,9 +1613,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap si {
+        internal static System.Drawing.Bitmap Seychelles {
             get {
-                object obj = ResourceManager.GetObject("si", resourceCulture);
+                object obj = ResourceManager.GetObject("Seychelles", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1643,9 +1623,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap sk {
+        internal static System.Drawing.Bitmap Sierra_Leone {
             get {
-                object obj = ResourceManager.GetObject("sk", resourceCulture);
+                object obj = ResourceManager.GetObject("Sierra_Leone", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1653,9 +1633,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap sl {
+        internal static System.Drawing.Bitmap Singapore {
             get {
-                object obj = ResourceManager.GetObject("sl", resourceCulture);
+                object obj = ResourceManager.GetObject("Singapore", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1663,9 +1643,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap sm {
+        internal static System.Drawing.Bitmap Slovakia {
             get {
-                object obj = ResourceManager.GetObject("sm", resourceCulture);
+                object obj = ResourceManager.GetObject("Slovakia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1673,9 +1653,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap sn {
+        internal static System.Drawing.Bitmap Slovenia {
             get {
-                object obj = ResourceManager.GetObject("sn", resourceCulture);
+                object obj = ResourceManager.GetObject("Slovenia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1683,9 +1663,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap so {
+        internal static System.Drawing.Bitmap Solomon_Islands {
             get {
-                object obj = ResourceManager.GetObject("so", resourceCulture);
+                object obj = ResourceManager.GetObject("Solomon_Islands", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1693,9 +1673,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap sr {
+        internal static System.Drawing.Bitmap Somalia {
             get {
-                object obj = ResourceManager.GetObject("sr", resourceCulture);
+                object obj = ResourceManager.GetObject("Somalia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1703,9 +1683,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap st {
+        internal static System.Drawing.Bitmap South_Africa {
             get {
-                object obj = ResourceManager.GetObject("st", resourceCulture);
+                object obj = ResourceManager.GetObject("South_Africa", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1713,9 +1693,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap sv {
+        internal static System.Drawing.Bitmap South_Korea {
             get {
-                object obj = ResourceManager.GetObject("sv", resourceCulture);
+                object obj = ResourceManager.GetObject("South_Korea", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1723,9 +1703,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap sy {
+        internal static System.Drawing.Bitmap Spain {
             get {
-                object obj = ResourceManager.GetObject("sy", resourceCulture);
+                object obj = ResourceManager.GetObject("Spain", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1733,9 +1713,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap sz {
+        internal static System.Drawing.Bitmap Sri_Lanka {
             get {
-                object obj = ResourceManager.GetObject("sz", resourceCulture);
+                object obj = ResourceManager.GetObject("Sri_Lanka", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1743,9 +1723,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap td {
+        internal static System.Drawing.Bitmap Sudan {
             get {
-                object obj = ResourceManager.GetObject("td", resourceCulture);
+                object obj = ResourceManager.GetObject("Sudan", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1753,9 +1733,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap tg {
+        internal static System.Drawing.Bitmap Suriname {
             get {
-                object obj = ResourceManager.GetObject("tg", resourceCulture);
+                object obj = ResourceManager.GetObject("Suriname", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1763,9 +1743,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap th {
+        internal static System.Drawing.Bitmap Swaziland {
             get {
-                object obj = ResourceManager.GetObject("th", resourceCulture);
+                object obj = ResourceManager.GetObject("Swaziland", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1773,9 +1753,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap tj {
+        internal static System.Drawing.Bitmap Sweden {
             get {
-                object obj = ResourceManager.GetObject("tj", resourceCulture);
+                object obj = ResourceManager.GetObject("Sweden", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1783,9 +1763,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap tl {
+        internal static System.Drawing.Bitmap Switzerland {
             get {
-                object obj = ResourceManager.GetObject("tl", resourceCulture);
+                object obj = ResourceManager.GetObject("Switzerland", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1793,9 +1773,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap tm {
+        internal static System.Drawing.Bitmap Syria {
             get {
-                object obj = ResourceManager.GetObject("tm", resourceCulture);
+                object obj = ResourceManager.GetObject("Syria", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1803,9 +1783,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap tn {
+        internal static System.Drawing.Bitmap Tajikistan {
             get {
-                object obj = ResourceManager.GetObject("tn", resourceCulture);
+                object obj = ResourceManager.GetObject("Tajikistan", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1813,9 +1793,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap to {
+        internal static System.Drawing.Bitmap Tanzania {
             get {
-                object obj = ResourceManager.GetObject("to", resourceCulture);
+                object obj = ResourceManager.GetObject("Tanzania", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1823,9 +1803,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap tr {
+        internal static System.Drawing.Bitmap Thailand {
             get {
-                object obj = ResourceManager.GetObject("tr", resourceCulture);
+                object obj = ResourceManager.GetObject("Thailand", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1833,9 +1813,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap tt {
+        internal static System.Drawing.Bitmap The_Netherlands {
             get {
-                object obj = ResourceManager.GetObject("tt", resourceCulture);
+                object obj = ResourceManager.GetObject("The_Netherlands", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1843,9 +1823,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap tv {
+        internal static System.Drawing.Bitmap Togo {
             get {
-                object obj = ResourceManager.GetObject("tv", resourceCulture);
+                object obj = ResourceManager.GetObject("Togo", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1853,9 +1833,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap tw {
+        internal static System.Drawing.Bitmap Tonga {
             get {
-                object obj = ResourceManager.GetObject("tw", resourceCulture);
+                object obj = ResourceManager.GetObject("Tonga", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1863,9 +1843,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap tz {
+        internal static System.Drawing.Bitmap Trinidad_and_Tobago {
             get {
-                object obj = ResourceManager.GetObject("tz", resourceCulture);
+                object obj = ResourceManager.GetObject("Trinidad_and_Tobago", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1873,9 +1853,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ua {
+        internal static System.Drawing.Bitmap Tunisia {
             get {
-                object obj = ResourceManager.GetObject("ua", resourceCulture);
+                object obj = ResourceManager.GetObject("Tunisia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1883,9 +1863,49 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ug {
+        internal static System.Drawing.Bitmap Turkey {
             get {
-                object obj = ResourceManager.GetObject("ug", resourceCulture);
+                object obj = ResourceManager.GetObject("Turkey", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Turkmenistan {
+            get {
+                object obj = ResourceManager.GetObject("Turkmenistan", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Tuvalu {
+            get {
+                object obj = ResourceManager.GetObject("Tuvalu", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Uganda {
+            get {
+                object obj = ResourceManager.GetObject("Uganda", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Ukraine {
+            get {
+                object obj = ResourceManager.GetObject("Ukraine", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1903,9 +1923,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap us {
+        internal static System.Drawing.Bitmap United_States_of_America {
             get {
-                object obj = ResourceManager.GetObject("us", resourceCulture);
+                object obj = ResourceManager.GetObject("United_States_of_America", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1913,9 +1933,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap uy {
+        internal static System.Drawing.Bitmap Uruguay {
             get {
-                object obj = ResourceManager.GetObject("uy", resourceCulture);
+                object obj = ResourceManager.GetObject("Uruguay", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1923,9 +1943,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap uz {
+        internal static System.Drawing.Bitmap Uzbekistan {
             get {
-                object obj = ResourceManager.GetObject("uz", resourceCulture);
+                object obj = ResourceManager.GetObject("Uzbekistan", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1933,9 +1953,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap va {
+        internal static System.Drawing.Bitmap Vanuatu {
             get {
-                object obj = ResourceManager.GetObject("va", resourceCulture);
+                object obj = ResourceManager.GetObject("Vanuatu", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1943,9 +1963,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap vc {
+        internal static System.Drawing.Bitmap Vatican_City {
             get {
-                object obj = ResourceManager.GetObject("vc", resourceCulture);
+                object obj = ResourceManager.GetObject("Vatican_City", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1953,9 +1973,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ve {
+        internal static System.Drawing.Bitmap Venezuela {
             get {
-                object obj = ResourceManager.GetObject("ve", resourceCulture);
+                object obj = ResourceManager.GetObject("Venezuela", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1963,9 +1983,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap vn {
+        internal static System.Drawing.Bitmap Vietnam {
             get {
-                object obj = ResourceManager.GetObject("vn", resourceCulture);
+                object obj = ResourceManager.GetObject("Vietnam", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1973,9 +1993,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap vu {
+        internal static System.Drawing.Bitmap Western_Sahara {
             get {
-                object obj = ResourceManager.GetObject("vu", resourceCulture);
+                object obj = ResourceManager.GetObject("Western_Sahara", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1983,9 +2003,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ws {
+        internal static System.Drawing.Bitmap Yemen {
             get {
-                object obj = ResourceManager.GetObject("ws", resourceCulture);
+                object obj = ResourceManager.GetObject("Yemen", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -1993,9 +2013,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap ye {
+        internal static System.Drawing.Bitmap Zambia {
             get {
-                object obj = ResourceManager.GetObject("ye", resourceCulture);
+                object obj = ResourceManager.GetObject("Zambia", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -2003,29 +2023,9 @@ namespace NationsoftheWorld.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap za {
+        internal static System.Drawing.Bitmap Zimbabwe {
             get {
-                object obj = ResourceManager.GetObject("za", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap zm {
-            get {
-                object obj = ResourceManager.GetObject("zm", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap zw {
-            get {
-                object obj = ResourceManager.GetObject("zw", resourceCulture);
+                object obj = ResourceManager.GetObject("Zimbabwe", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
